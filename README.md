@@ -3,11 +3,17 @@
 
 
 # to do list
-  搜集3D打印模型
+  
+  建立3dedu.net网站
+  
+  众包方式搜集3D打印模型
+  
+  邀请3D打印开发人员加入3dedu
   
   
   
-  模型来源：
+  
+# 模型来源
   
   http://mx.nanjixiong.com/forum.php
   
