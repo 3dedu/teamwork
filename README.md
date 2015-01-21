@@ -25,3 +25,6 @@
   http://www.yi3d.com/forum.php?gid=45
   
   
+# 如何加入
+
+添加您的github用户名到members文件，我们会邀请您加入
