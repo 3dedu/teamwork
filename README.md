@@ -1,5 +1,5 @@
 # teamwork
-3dedu团队协作
+3d打印模型协作
 
 
 # to do list
